@@ -19,6 +19,11 @@
     "@angular/platform-browser": "~9.1.11",
     "@angular/platform-browser-dynamic": "~9.1.11",
     "@angular/router": "~9.1.11",
+    "ag-grid-angular": "^25.3.0",
+    "ag-grid-community": "^25.3.0",
+    "angular-open-datagrid": "^1.4.3",
+    "font-awesome": "^4.7.0",
+    "ngx-toastr": "^14.0.0",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
